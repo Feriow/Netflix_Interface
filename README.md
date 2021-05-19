@@ -1,4 +1,4 @@
-# Project: Netflix interface (HTML | CSS | Javascript)
+# Project: Netflix interface (HTML | CSS)
 This is was a practice project to clone Netflix interface at Digital Innovation One's WEB development bootcamp. The lessons and project were created by Felipe Aguiar (https://github.com/felipeAguiarCode/netflix-clone).
 
 **Implemented upgrades:**
