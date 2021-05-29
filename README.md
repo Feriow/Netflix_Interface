@@ -1,6 +1,12 @@
 # Project: Netflix interface (HTML | CSS)
 This is was a practice project to clone Netflix interface at Digital Innovation One's WEB development bootcamp. The lessons and project were created by Felipe Aguiar (https://github.com/felipeAguiarCode/netflix-clone).
 
+**Features:**
+
+- Carousel effect using [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/);
+- Hover effect over buttons;
+- Responsive for different screen sizes;
+
 **Implemented upgrades:**
 
 - Hover effect on carousel images to highlight where the cursor is.
